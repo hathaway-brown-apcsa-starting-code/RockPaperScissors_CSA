@@ -86,6 +86,9 @@ public class RPSMatch
      * match between the user and the computer. The user's choice is
      * stored in the private instance variable String humanPlay 
      * and the computer's choice is stored in compPlay.
+     *
+     * One of the private instance variables compWins, humanWins, or ties
+     * is updated as appropriate
      * 
      * @return  A String explaining the result
      */
